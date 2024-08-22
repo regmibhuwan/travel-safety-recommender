@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+jupyter
+scikit-learn
+requests
+beautifulsoup4
+geopy
+folium
